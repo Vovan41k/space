@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "name": "spacebot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "bot": "nodemon ./bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vovan41k/space.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vovan41k/space/issues"
+  },
+  "homepage": "https://github.com/Vovan41k/space#readme"
+}
